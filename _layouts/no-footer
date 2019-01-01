@@ -22,5 +22,10 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:kadiliissaar@gmail.com">email-2</a></li>
+				</ul>
+			</footer>
 		</body>
 	</html>
