@@ -1,0 +1,4 @@
+img[src*="#image_st"] {
+   width:150px;
+   height:100px;
+}
