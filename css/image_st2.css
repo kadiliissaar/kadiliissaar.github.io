@@ -1,6 +1,3 @@
-img[src*="#image_st2"] {
- width: 40%;
- float: right;
- background: red;
- padding: 30px;
-}
+.left {
+ float: left;
+ padding: 0 10px 0 0;}
